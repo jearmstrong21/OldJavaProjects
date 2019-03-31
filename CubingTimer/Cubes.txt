@@ -1,0 +1,912 @@
+10x10 Cube
+Normal
+00 : 57 : 17 : 726
+3437727
+2017 / 08 / 29
+Shengshou
+1x3x3 Cuboid
+Speed
+00 : 00 : 26 : 269
+26269
+2017 / 09 / 29
+LanLan
+1x3x3 Cuboid
+Speed
+00 : 00 : 18 : 617
+18620
+2017 / 10 / 03
+LanLan
+1x3x3 Cuboid
+Speed
+00 : 00 : 24 : 802
+24802
+2017 / 10 / 09
+LanLan
+1x3x3 Cuboid
+Speed
+00 : 00 : 19 : 040
+19041
+2017 / 10 / 10
+LanLan
+1x3x3 Cuboid
+Speed
+00 : 00 : 31 : 604
+31606
+2017 / 10 / 11
+LanLan
+1x3x3 Cuboid
+Speed
+00 : 00 : 25 : 026
+25027
+2017 / 10 / 12
+LanLan
+1x3x3 Cuboid
+Speed
+00 : 00 : 29 : 377
+29377
+2017 / 10 / 14
+LanLan
+2x2 Cube
+Speed
+00 : 00 : 12 : 077
+12078
+2017 / 09 / 29
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 17 : 835
+17836
+2017 / 09 / 29
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 15 : 946
+15947
+2017 / 09 / 29
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 15 : 552
+15557
+2017 / 10 / 03
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 16 : 783
+16783
+2017 / 10 / 08
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 10 : 217
+10218
+2017 / 10 / 09
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 08 : 964
+8965
+2017 / 10 / 09
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 17 : 857
+17857
+2017 / 10 / 09
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 14 : 295
+14296
+2017 / 10 / 10
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 09 : 687
+9687
+2017 / 10 / 10
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 11 : 625
+11626
+2017 / 10 / 11
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 12 : 477
+12478
+2017 / 10 / 11
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 14 : 460
+14461
+2017 / 10 / 11
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 09 : 698
+9698
+2017 / 10 / 11
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 11 : 656
+11657
+2017 / 10 / 12
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 17 : 394
+17395
+2017 / 10 / 12
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 12 : 950
+12950
+2017 / 10 / 12
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 12 : 194
+12195
+2017 / 10 / 12
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 16 : 064
+16065
+2017 / 10 / 12
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 12 : 731
+12731
+2017 / 10 / 12
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 07 : 982
+7983
+2017 / 10 / 14
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 10 : 917
+10917
+2017 / 10 / 14
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 14 : 709
+14709
+2017 / 10 / 16
+D-Fantix Cyclone Boys
+2x2 Cube
+Speed
+00 : 00 : 15 : 847
+15847
+2017 / 10 / 16
+D-Fantix Cyclone Boys
+2x2 Mastermorphix
+Speed
+00 : 00 : 32 : 108
+32109
+2017 / 08 / 21
+Shengshou
+2x2 Mastermorphix
+Easy
+00 : 01 : 32 : 014
+92014
+2017 / 08 / 21
+Shengshou
+2x2 Mastermorphix
+Speed
+00 : 00 : 53 : 319
+53321
+2017 / 08 / 25
+Shengshou
+2x2 Skewb
+Normal
+00 : 00 : 48 : 575
+48576
+2017 / 09 / 29
+D-Fantix Qiyi
+2x2 Skewb
+Speed
+00 : 00 : 22 : 319
+22319
+2017 / 09 / 29
+D-Fantix Qiyi
+2x2 Skewb
+Speed
+00 : 00 : 23 : 489
+23490
+2017 / 10 / 03
+D-Fantix Qiyi
+2x2 Skewb
+Speed
+00 : 00 : 15 : 917
+15918
+2017 / 10 / 09
+D-Fantix Qiyi
+2x2 Skewb
+Speed
+00 : 00 : 21 : 828
+21829
+2017 / 10 / 10
+D-Fantix Qiyi
+2x2 Skewb
+Speed
+00 : 00 : 28 : 069
+28070
+2017 / 10 / 11
+D-Fantix Qiyi
+2x2 Skewb
+Speed
+00 : 00 : 28 : 711
+28711
+2017 / 10 / 11
+D-Fantix Qiyi
+2x2 Skewb
+Speed
+00 : 00 : 23 : 385
+23386
+2017 / 10 / 12
+D-Fantix Qiyi
+2x2 Skewb
+Speed
+00 : 00 : 23 : 426
+23426
+2017 / 10 / 14
+D-Fantix Qiyi
+2x2x3 Cuboid
+Speed
+00 : 00 : 31 : 094
+31095
+2017 / 09 / 29
+Other
+2x2x3 Cuboid
+Speed
+00 : 00 : 39 : 837
+39837
+2017 / 10 / 03
+Other
+2x2x3 Cuboid
+Speed
+00 : 00 : 26 : 460
+26461
+2017 / 10 / 09
+Other
+2x2x3 Cuboid
+Speed
+00 : 00 : 29 : 774
+29775
+2017 / 10 / 10
+Other
+2x2x3 Cuboid
+Speed
+00 : 00 : 38 : 741
+38742
+2017 / 10 / 11
+Other
+2x2x3 Cuboid
+Speed
+00 : 00 : 20 : 714
+20715
+2017 / 10 / 11
+Other
+2x2x3 Cuboid
+Speed
+00 : 00 : 27 : 485
+27485
+2017 / 10 / 12
+Other
+2x2x3 Cuboid
+Speed
+00 : 00 : 19 : 520
+19521
+2017 / 10 / 14
+Other
+2x3x3 Cuboid
+Speed
+00 : 00 : 44 : 631
+44631
+2017 / 09 / 29
+Shengshou
+2x3x3 Cuboid
+Speed
+00 : 00 : 26 : 489
+26489
+2017 / 10 / 03
+Shengshou
+2x3x3 Cuboid
+Speed
+00 : 00 : 38 : 143
+38143
+2017 / 10 / 03
+Shengshou
+2x3x3 Cuboid
+Speed
+00 : 00 : 24 : 920
+24920
+2017 / 10 / 09
+Shengshou
+2x3x3 Cuboid
+Speed
+00 : 00 : 30 : 969
+30970
+2017 / 10 / 10
+Shengshou
+2x3x3 Cuboid
+Speed
+00 : 00 : 34 : 712
+34712
+2017 / 10 / 11
+Shengshou
+2x3x3 Cuboid
+Speed
+00 : 00 : 25 : 681
+25681
+2017 / 10 / 11
+Shengshou
+2x3x3 Cuboid
+Speed
+00 : 00 : 32 : 009
+32009
+2017 / 10 / 12
+Shengshou
+2x3x3 Cuboid
+Speed
+00 : 00 : 38 : 069
+38069
+2017 / 10 / 14
+Shengshou
+3x3 Cube
+Speed
+00 : 00 : 39 : 415
+39415
+2017 / 08 / 16
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed-Normal
+00 : 01 : 01 : 899
+61899
+2017 / 08 / 19
+D-Fantix Cyclone Boys
+3x3 Cube
+Normal
+00 : 01 : 03 : 505
+63506
+2017 / 08 / 20
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed
+00 : 01 : 01 : 717
+61717
+2017 / 08 / 25
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed
+00 : 00 : 54 : 257
+54257
+2017 / 08 / 25
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed-Normal
+00 : 01 : 10 : 460
+70462
+2017 / 09 / 08
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed
+00 : 00 : 49 : 330
+49332
+2017 / 09 / 10
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed
+00 : 00 : 37 : 15
+37015
+2017 / 09 / 19
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed
+00 : 00 : 46 : 860
+46861
+2017 / 09 / 20
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed
+00 : 00 : 43 : 896
+43898
+2017 / 10 / 08
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed
+00 : 00 : 33 : 920
+33921
+2017 / 10 / 09
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed
+00 : 00 : 45 : 386
+45387
+2017 / 10 / 10
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed
+00 : 00 : 40 : 805
+40805
+2017 / 10 / 11
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed
+00 : 00 : 38 : 922
+38923
+2017 / 10 / 11
+D-Fantix Cyclone Boys
+3x3 Cube
+Speed
+00 : 00 : 32 : 032
+32033
+2017 / 10 / 12
+D-Fantix Cyclone Boys
+3x3 Fisher
+Speed
+00 : 01 : 42 : 915
+102915
+2017 / 10 / 09
+D-Fantix Yongjun Yileng
+3x3 Fisher
+Speed
+00 : 01 : 31 : 786
+91786
+2017 / 10 / 10
+D-Fantix Yongjun Yileng
+3x3 Fisher
+Speed
+00 : 01 : 29 : 955
+89955
+2017 / 10 / 11
+D-Fantix Yongjun Yileng
+3x3 Fisher
+Speed
+00 : 01 : 21 : 757
+81757
+2017 / 10 / 14
+D-Fantix Yongjun Yileng
+3x3 Ivy
+Speed
+00 : 00 : 15 : 73
+15073
+2017 / 10 / 09
+MO FANG GE
+3x3 Ivy
+Speed
+00 : 00 : 16 : 268
+16269
+2017 / 10 / 10
+MO FANG GE
+3x3 Ivy
+Speed
+00 : 00 : 13 : 401
+13402
+2017 / 10 / 11
+MO FANG GE
+3x3 Ivy
+Speed
+00 : 00 : 07 : 400
+7400
+2017 / 10 / 11
+MO FANG GE
+3x3 Mastermorphix
+Speed
+00 : 02 : 49 : 765
+169765
+2017 / 08 / 20
+Shengshou
+3x3 Mastermorphix
+Speed
+00 : 01 : 49 : 121
+109122
+2017 / 10 / 09
+Shengshou
+3x3 Mirror
+Speed
+00 : 02 : 02 : 631
+122631
+2017 / 08 / 24
+Shengshou
+3x3 Redi
+Speed
+00 : 00 : 41 : 348
+41349
+2017 / 09 / 29
+Other
+3x3 Redi
+Speed
+00 : 00 : 35 : 456
+35456
+2017 / 10 / 03
+Other
+3x3 Redi
+Speed
+00 : 00 : 38 : 444
+38444
+2017 / 10 / 09
+Other
+3x3 Redi
+Speed
+00 : 00 : 37 : 589
+37589
+2017 / 10 / 10
+Other
+3x3 Redi
+Speed
+00 : 00 : 33 : 705
+33706
+2017 / 10 / 11
+Other
+3x3 Redi
+Speed
+00 : 00 : 36 : 334
+36334
+2017 / 10 / 11
+Other
+3x3 Redi
+Speed
+00 : 00 : 23 : 366
+23366
+2017 / 10 / 14
+Other
+3x3 Square1
+Speed
+00 : 02 : 11 : 340
+131340
+2017 / 10 / 09
+D-Fantix X-Man Volt
+3x3 Square1
+Speed
+00 : 01 : 08 : 171
+68171
+2017 / 10 / 12
+D-Fantix X-Man Volt
+3x3 Triangle
+Speed
+00 : 00 : 13 : 100
+13103
+2017 / 08 / 19
+Shengshou
+3x3 Triangle
+Normal
+00 : 00 : 18 : 953
+18954
+2017 / 08 / 19
+Shengshou
+3x3 Triangle
+Speed
+00 : 00 : 17 : 405
+17405
+2017 / 08 / 21
+Shengshou
+3x3 Triangle
+Speed
+00 : 00 : 27 : 790
+27791
+2017 / 09 / 10
+Shengshou
+3x3 Triangle
+Speed
+00 : 00 : 24 : 615
+24615
+2017 / 10 / 03
+Shengshou
+3x3 Triangle
+Speed
+00 : 00 : 20 : 003
+20003
+2017 / 10 / 10
+Shengshou
+3x3 Triangle
+Speed
+00 : 00 : 15 : 653
+15654
+2017 / 10 / 11
+Shengshou
+3x3x5 Cuboid
+Speed
+00 : 04 : 08 : 975
+248976
+2017 / 08 / 24
+Calvin's
+3x3x5 Cuboid
+Speed
+00 : 03 : 18 : 456
+198456
+2017 / 08 / 24
+Calvin's
+3x3x5 Cuboid
+Speed
+00 : 04 : 05 : 145
+245145
+2017 / 08 / 25
+Calvin's
+3x3x9 Cuboid
+Speed
+00 : 08 : 21 : 467
+501468
+2017 / 08 / 23
+WitEden
+3x3x9 Cuboid
+Speed
+00 : 05 : 19 : 821
+319822
+2017 / 08 / 30
+WitEden
+4x4 Cube
+Speed
+00 : 02 : 14 : 253
+134254
+2017 / 08 / 24
+V-Cube
+4x4 Cube
+Speed
+00 : 04 : 54 : 551
+294552
+2017 / 08 / 24
+V-Cube
+4x4 Cube
+Speed
+00 : 05 : 08 : 877
+308878
+2017 / 08 / 24
+V-Cube
+4x4 Cube
+Speed
+00 : 02 : 32 : 981
+152981
+2017 / 08 / 25
+V-Cube
+4x4 Cube
+Speed
+00 : 03 : 03 : 055
+183055
+2017 / 08 / 25
+V-Cube
+4x4 Cube
+Speed
+00 : 01 : 55 : 008
+115009
+2017 / 09 / 29
+D-Fantix Cyclone Boys
+4x4 Cube
+Speed
+00 : 02 : 03 : 577
+123577
+2017 / 10 / 03
+D-Fantix Cyclone Boys
+4x4 Cube
+Speed
+00 : 01 : 55 : 083
+115083
+2017 / 10 / 05
+D-Fantix Cyclone Boys
+4x4 Cube
+Speed
+00 : 02 : 07 : 092
+127093
+2017 / 10 / 08
+D-Fantix Cyclone Boys
+4x4 Cube
+Speed
+00 : 01 : 56 : 102
+116102
+2017 / 10 / 09
+D-Fantix Cyclone Boys
+4x4 Cube
+Speed
+00 : 01 : 59 : 611
+119611
+2017 / 10 / 10
+D-Fantix Cyclone Boys
+4x4 Cube
+Speed
+00 : 01 : 50 : 215
+110216
+2017 / 10 / 11
+D-Fantix Cyclone Boys
+4x4 Cube
+Speed
+00 : 01 : 55 : 539
+115539
+2017 / 10 / 11
+D-Fantix Cyclone Boys
+4x4 Cube
+Speed
+00 : 02 : 05 : 909
+125910
+2017 / 10 / 12
+D-Fantix Cyclone Boys
+4x4 Cube
+Speed
+00 : 01 : 53 : 134
+113134
+2017 / 10 / 14
+D-Fantix Cyclone Boys
+4x4 Triangle
+Speed
+00 : 02 : 18 : 734
+138734
+2017 / 10 / 03
+Shengshou
+4x4 Triangle
+Speed
+00 : 03 : 11 : 334
+191334
+2017 / 10 / 09
+Shengshou
+4x4 Triangle
+Speed
+00 : 02 : 46 : 902
+166903
+2017 / 10 / 10
+Shengshou
+4x4 Triangle
+Speed
+00 : 02 : 02 : 147
+122147
+2017 / 10 / 11
+Shengshou
+4x4 Triangle
+Speed
+00 : 01 : 45 : 687
+105687
+2017 / 10 / 12
+Shengshou
+4x4x5 Cuboid
+Speed
+00 : 03 : 15 : 178
+195178
+2017 / 10 / 03
+Ayi
+4x4x5 Cuboid
+Speed
+00 : 03 : 38 : 205
+218205
+2017 / 10 / 09
+Ayi
+4x4x5 Cuboid
+Speed
+00 : 03 : 32 : 936
+212937
+2017 / 10 / 10
+Ayi
+5x5 Cube
+Speed
+00 : 05 : 41 : 779
+341781
+2017 / 08 / 18
+Shengshou
+5x5 Cube
+Speed
+00 : 03 : 42 : 468
+222469
+2017 / 09 / 29
+D-Fantix Cyclone Boys
+5x5 Cube
+Speed
+00 : 03 : 30 : 298
+210299
+2017 / 10 / 03
+D-Fantix Cyclone Boys
+5x5 Cube
+Speed
+00 : 04 : 14 : 212
+254213
+2017 / 10 / 05
+D-Fantix Cyclone Boys
+5x5 Cube
+Speed
+00 : 03 : 37 : 185
+217186
+2017 / 10 / 08
+D-Fantix Cyclone Boys
+5x5 Cube
+Speed
+00 : 03 : 14 : 127
+194127
+2017 / 10 / 09
+D-Fantix Cyclone Boys
+5x5 Cube
+Speed
+00 : 03 : 13 : 362
+193362
+2017 / 10 / 10
+D-Fantix Cyclone Boys
+5x5 Cube
+Speed
+00 : 03 : 15 : 911
+195911
+2017 / 10 / 11
+D-Fantix Cyclone Boys
+5x5 Cube
+Speed
+00 : 02 : 53 : 112
+173113
+2017 / 10 / 12
+D-Fantix Cyclone Boys
+5x5 Cube
+Speed
+00 : 03 : 19 : 200
+199200
+2017 / 10 / 14
+D-Fantix Cyclone Boys
+6x6 Cube
+Speed
+00 : 09 : 40 : 075
+580076
+2017 / 08 / 25
+V-Cube
+6x6 Cube
+Speed
+00 : 09 : 49 : 038
+589039
+2017 / 08 / 28
+V-Cube
+6x6 Cube
+Speed
+00 : 05 : 17 : 022
+317022
+2017 / 10 / 07
+D-Fantix Cyclone Boys
+6x6 Cube
+Speed
+00 : 05 : 47 : 759
+347760
+2017 / 10 / 08
+D-Fantix Cyclone Boys
+6x6 Cube
+Speed
+00 : 07 : 00 : 655
+420655
+2017 / 10 / 09
+D-Fantix Cyclone Boys
+6x6 Cube
+Speed
+00 : 06 : 29 : 977
+389977
+2017 / 10 / 10
+D-Fantix Cyclone Boys
+6x6 Cube
+Speed
+00 : 06 : 38 : 737
+398737
+2017 / 10 / 14
+D-Fantix Cyclone Boys
+7x7 Cube
+Speed
+00 : 09 : 27 : 323
+567324
+2018 / 01 / 22
+Moyu Aofu
+7x7 Pentagon
+Normal
+01 : 30 : 45 : 421
+5445421
+2017 / 08 / 19
+Mf8
+V-Sphere Original
+Speed
+00 : 12 : 48 : 473
+768474
+2018 / 01 / 27
+V-Cube
+7x7 Cube
+Speed
+00 : 10 : 33 : 173
+633174
+2018 / 01 / 29
+Moyu Aofu

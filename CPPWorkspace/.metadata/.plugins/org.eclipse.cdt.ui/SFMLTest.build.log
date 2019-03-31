@@ -1,0 +1,15 @@
+07:37:01 **** Incremental Build of configuration Debug for project SFMLTest ****
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: SFMLTest
+Invoking: MacOS X C++ Linker
+g++  -o "SFMLTest"  ./main.o   
+Finished building target: SFMLTest
+ 
+
+07:37:01 Build Finished (took 386ms)
+

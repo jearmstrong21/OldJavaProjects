@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Title</title>
+ 		<style>
+.CODE_HIGHLIGHT_COMMENT {
+	color: #808080;
+	font-weight: normal;
+}
+.CODE_HIGHLIGHT_KEYWORD {
+	color: #C71585;
+	font-weight: bold;
+}
+.CODE_HIGHLIGHT_CODEWORD {
+	color: #00C5CD;
+	font-weight: normal;
+}
+.CODE_HIGHLIGHT_JAVADOC {
+	color: #98AFC7;
+	font-weight: normal;
+}
+.CODE_HIGHLIGHT_TEXT {
+	color: #000000;
+	font-weight: normal;
+}
+.CODE_HIGHLIGHT_STRING {
+	color: #0000FF;
+	font-weight: normal;
+}
+.CODE_HIGHLIGHT_ORNAMENT {
+	color: #8B520C;
+	font-weight: normal;
+}
+.CODE_HIGHLIGHT_ANNOTATION {
+	color: #646464;
+	font-weight: normal;
+}
+.CODE_HIGHLIGHT_PRE {	background-color: #EEEEEE;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+		</style>
+	</head>
+	<body>
+		<pre class='CODE_HIGHLIGHT_PRE'>
+<span class='CODE_HIGHLIGHT_COMMENT'>//</span> <span class='CODE_HIGHLIGHT_COMMENT'>GUIComponent.pde</span> 
+<span class='CODE_HIGHLIGHT_COMMENT'>//</span> <span class='CODE_HIGHLIGHT_COMMENT'>DO</span> <span class='CODE_HIGHLIGHT_COMMENT'>NOT</span> <span class='CODE_HIGHLIGHT_COMMENT'>EDIT</span> <span class='CODE_HIGHLIGHT_COMMENT'>ANY</span> <span class='CODE_HIGHLIGHT_COMMENT'>FILES</span> <span class='CODE_HIGHLIGHT_COMMENT'>IN</span> <span class='CODE_HIGHLIGHT_COMMENT'>THIS</span> <span class='CODE_HIGHLIGHT_COMMENT'>LIBRARY</span> 
+<span class='CODE_HIGHLIGHT_COMMENT'>//</span> <span class='CODE_HIGHLIGHT_COMMENT'>VERSION</span> <span class='CODE_HIGHLIGHT_COMMENT'>1.0</span> 
+<span class='CODE_HIGHLIGHT_COMMENT'>//</span> <span class='CODE_HIGHLIGHT_COMMENT'>AUTHOR</span> <span class='CODE_HIGHLIGHT_COMMENT'>JARMSTRONG</span> 
+<span class='CODE_HIGHLIGHT_TEXT'></span> 
+<span class='CODE_HIGHLIGHT_KEYWORD'>abstract</span> <span class='CODE_HIGHLIGHT_KEYWORD'>class</span> <span class='CODE_HIGHLIGHT_TEXT'>GUIComponent</span> <span class='CODE_HIGHLIGHT_TEXT'><span class='CODE_HIGHLIGHT_ORNAMENT'>{</span></span> 
+
+<span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_CODEWORD'>PVector</span> <span class='CODE_HIGHLIGHT_TEXT'>pos<span class='CODE_HIGHLIGHT_ORNAMENT'>;</span></span> 
+<span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_CODEWORD'>PVector</span> <span class='CODE_HIGHLIGHT_TEXT'>size<span class='CODE_HIGHLIGHT_ORNAMENT'>;</span></span> 
+
+<span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'>GUIComponent<span class='CODE_HIGHLIGHT_ORNAMENT'>(</span></span> <span class='CODE_HIGHLIGHT_KEYWORD'>float</span> <span class='CODE_HIGHLIGHT_TEXT'>x,</span> <span class='CODE_HIGHLIGHT_KEYWORD'>float</span> <span class='CODE_HIGHLIGHT_TEXT'>y,</span> <span class='CODE_HIGHLIGHT_KEYWORD'>float</span> <span class='CODE_HIGHLIGHT_TEXT'>w,</span> <span class='CODE_HIGHLIGHT_KEYWORD'>float</span> <span class='CODE_HIGHLIGHT_TEXT'>h<span class='CODE_HIGHLIGHT_ORNAMENT'>)</span></span> <span class='CODE_HIGHLIGHT_TEXT'><span class='CODE_HIGHLIGHT_ORNAMENT'>{</span></span> 
+<span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'>pos</span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'>=</span> <span class='CODE_HIGHLIGHT_KEYWORD'>new</span> <span class='CODE_HIGHLIGHT_CODEWORD'>PVector</span> <span class='CODE_HIGHLIGHT_TEXT'><span class='CODE_HIGHLIGHT_ORNAMENT'>(</span>x,</span> <span class='CODE_HIGHLIGHT_TEXT'>y<span class='CODE_HIGHLIGHT_ORNAMENT'>)</span><span class='CODE_HIGHLIGHT_ORNAMENT'>;</span></span> 
+<span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'>size</span> <span class='CODE_HIGHLIGHT_TEXT'>=</span> <span class='CODE_HIGHLIGHT_KEYWORD'>new</span> <span class='CODE_HIGHLIGHT_CODEWORD'>PVector</span> <span class='CODE_HIGHLIGHT_TEXT'><span class='CODE_HIGHLIGHT_ORNAMENT'>(</span>w,</span> <span class='CODE_HIGHLIGHT_TEXT'>h<span class='CODE_HIGHLIGHT_ORNAMENT'>)</span><span class='CODE_HIGHLIGHT_ORNAMENT'>;</span></span> 
+<span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'><span class='CODE_HIGHLIGHT_ORNAMENT'>}</span></span> 
+
+<span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_KEYWORD'>abstract</span> <span class='CODE_HIGHLIGHT_KEYWORD'>void</span> <span class='CODE_HIGHLIGHT_TEXT'>update<span class='CODE_HIGHLIGHT_ORNAMENT'>(</span><span class='CODE_HIGHLIGHT_ORNAMENT'>)</span><span class='CODE_HIGHLIGHT_ORNAMENT'>;</span></span> 
+<span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_KEYWORD'>abstract</span> <span class='CODE_HIGHLIGHT_KEYWORD'>void</span> <span class='CODE_HIGHLIGHT_CODEWORD'>draw</span> <span class='CODE_HIGHLIGHT_TEXT'><span class='CODE_HIGHLIGHT_ORNAMENT'>(</span><span class='CODE_HIGHLIGHT_ORNAMENT'>)</span><span class='CODE_HIGHLIGHT_ORNAMENT'>;</span></span> 
+
+<span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_KEYWORD'>boolean</span> <span class='CODE_HIGHLIGHT_TEXT'>mouseHover<span class='CODE_HIGHLIGHT_ORNAMENT'>(</span><span class='CODE_HIGHLIGHT_ORNAMENT'>)</span></span> <span class='CODE_HIGHLIGHT_TEXT'><span class='CODE_HIGHLIGHT_ORNAMENT'>{</span></span> 
+<span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_KEYWORD'>return</span> <span class='CODE_HIGHLIGHT_TEXT'>pos<span class='CODE_HIGHLIGHT_ORNAMENT'>.</span>x</span> <span class='CODE_HIGHLIGHT_TEXT'>&lt</span> <span class='CODE_HIGHLIGHT_CODEWORD'>mouseX</span> <span class='CODE_HIGHLIGHT_TEXT'>&amp&amp</span> <span class='CODE_HIGHLIGHT_CODEWORD'>mouseX</span> <span class='CODE_HIGHLIGHT_TEXT'>&lt</span> <span class='CODE_HIGHLIGHT_TEXT'>pos<span class='CODE_HIGHLIGHT_ORNAMENT'>.</span>x</span> <span class='CODE_HIGHLIGHT_TEXT'><span class='CODE_HIGHLIGHT_ORNAMENT'>+</span></span> <span class='CODE_HIGHLIGHT_TEXT'>size<span class='CODE_HIGHLIGHT_ORNAMENT'>.</span>x</span> <span class='CODE_HIGHLIGHT_TEXT'>&amp&amp</span> <span class='CODE_HIGHLIGHT_TEXT'>pos<span class='CODE_HIGHLIGHT_ORNAMENT'>.</span>y</span> <span class='CODE_HIGHLIGHT_TEXT'>&lt</span> <span class='CODE_HIGHLIGHT_CODEWORD'>mouseY</span> <span class='CODE_HIGHLIGHT_TEXT'>&amp&amp</span> <span class='CODE_HIGHLIGHT_CODEWORD'>mouseY</span> <span class='CODE_HIGHLIGHT_TEXT'>&lt</span> <span class='CODE_HIGHLIGHT_TEXT'>pos<span class='CODE_HIGHLIGHT_ORNAMENT'>.</span>y</span> <span class='CODE_HIGHLIGHT_TEXT'><span class='CODE_HIGHLIGHT_ORNAMENT'>+</span></span> <span class='CODE_HIGHLIGHT_TEXT'>size<span class='CODE_HIGHLIGHT_ORNAMENT'>.</span>y<span class='CODE_HIGHLIGHT_ORNAMENT'>;</span></span> 
+<span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'></span> <span class='CODE_HIGHLIGHT_TEXT'><span class='CODE_HIGHLIGHT_ORNAMENT'>}</span></span> 
+
+
+<span class='CODE_HIGHLIGHT_TEXT'><span class='CODE_HIGHLIGHT_ORNAMENT'>}</span></span> 
+
+		</pre>
+	</body>
+</html>
